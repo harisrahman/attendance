@@ -1,0 +1,24 @@
+           ____   ____  _    _ _______ 
+     /\   |  _ \ / __ \| |  | |__   __|
+    /  \  | |_) | |  | | |  | |  | |   
+   / /\ \ |  _ <| |  | | |  | |  | |   
+  / ____ \| |_) | |__| | |__| |  | |   
+ /_/    \_\____/ \____/ \____/   |_|
+
+
+All parts of this website are custom built by me except the homepage/mainpage (http://localhost/Easyattendance) which has a theme template on it [and of course the APIs are built by their respective devloper(s)].
+
+
+   _____ _____  ______ _____ _____ _______ _____ 
+  / ____|  __ \|  ____|  __ \_   _|__   __/ ____|
+ | |    | |__) | |__  | |  | || |    | | | (___  
+ | |    |  _  /|  __| | |  | || |    | |  \___ \ 
+ | |____| | \ \| |____| |__| || |_   | |  ____) |
+  \_____|_|  \_\______|_____/_____|  |_| |_____/ 
+
+
+THEME TEMPLATE:
+https://startbootstrap.com/template-overviews/creative/
+
+ASCII ART:
+http://patorjk.com/software/taag/
